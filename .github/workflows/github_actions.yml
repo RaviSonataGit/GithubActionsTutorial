@@ -1,4 +1,4 @@
-name: Github Actions Example
+name: Example
 
 on:
   pull_request:
